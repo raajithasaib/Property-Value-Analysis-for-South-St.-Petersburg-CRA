@@ -51,5 +51,6 @@ This project focuses on analyzing property value trends in the South St. Petersb
 
 ## Author
 Raajitha Sai B, Ranjith Babu V
+
 Graduate Student, Business Analytics & Information Systems  
 University of South Florida  
