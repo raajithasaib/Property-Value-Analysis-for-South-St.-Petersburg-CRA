@@ -19,6 +19,7 @@ This project focuses on analyzing property value trends in the South St. Petersb
 - **Data Visualization Tools**: Tableau
 - **Database Management**: SQL
 - **Spreadsheet Tools**: Microsoft Excel (Advanced Functions, PivotTables, VLOOKUP)
+- **Project Management Tools**: Trello
 
 ---
 
