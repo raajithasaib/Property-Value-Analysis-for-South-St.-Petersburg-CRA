@@ -6,7 +6,7 @@ This project focuses on analyzing property value trends in the South St. Petersb
 ---
 
 ## Key Features
-- **Data Extraction**: Queried large datasets using SQL to identify property trends.
+- **Data Extraction**: Queried datasets using SQL to identify property trends.
 - **Data Cleaning & Transformation**: Processed and prepared data with Python libraries like `Pandas` and `NumPy`.
 - **Statistical Analysis**: Conducted benchmarking and segmentation for actionable insights.
 - **Interactive Dashboards**: Designed dynamic Tableau dashboards for stakeholders to explore real-time trends.
