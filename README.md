@@ -1,7 +1,5 @@
 # Property-Value-Analysis-for-South-St.-Petersburg-CRA
 
-# Property Value Analysis for South St. Petersburg CRA
-
 ## Project Overview
 This project focuses on analyzing property value trends in the South St. Petersburg Community Redevelopment Area (CRA). The goal was to provide actionable insights to support urban planning and redevelopment strategies through detailed data segmentation and visualization.
 
